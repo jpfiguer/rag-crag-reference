@@ -62,7 +62,7 @@ flowchart LR
 ```
 rag-crag-reference/
 ├── README.md
-├── LICENSE (AGPL-3.0)
+├── LICENSE (MIT)
 ├── pyproject.toml
 ├── .env.example
 ├── .gitignore
@@ -107,4 +107,4 @@ pytest
 
 ## Licencia
 
-AGPL-3.0.
+MIT — ver [LICENSE](LICENSE).
